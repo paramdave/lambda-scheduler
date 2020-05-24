@@ -12,3 +12,4 @@ IAM
 cron(0 12 */7 * ?) //removing second's measure as CW doesn't support seconds as per my best knowledge.
 
 ```
+This event runs at every 12 (noon) at every 7 days
